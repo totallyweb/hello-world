@@ -1,2 +1,2 @@
 # hello-world
-standard hello world program in c#
+Standard hello world program in C#.
